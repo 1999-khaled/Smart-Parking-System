@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407814737236",
+    "project_id": "gopark-341911",
+    "storage_bucket": "gopark-341911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407814737236:android:e4c034c5307a5788a38cc1",
+        "android_client_info": {
+          "package_name": "com.example.gopark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407814737236-djkkbieadopd450upph0gm4isnih30en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7AHfY851xYGEKza0L89ko6X6YFwBer1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407814737236-djkkbieadopd450upph0gm4isnih30en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
